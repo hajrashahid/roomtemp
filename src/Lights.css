@@ -1,0 +1,16 @@
+.Lights
+{
+height: 100%;
+}
+
+.On 
+{
+background-color: white ;
+color:black;
+}
+
+.Off
+{
+background-color: black;
+color: white;    
+}
